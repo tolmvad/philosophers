@@ -1,8 +1,7 @@
 ![eng](img/eng.png) [![ru](img/ru.png)](README.ru.md)
 # `Philosophers`
 
-Project in Ecole42. The purpose of this project is to learn how to work with `threads`, `mutex`, `semaphores`.<br>
-You can read task: [`philosophers.subject.pdf`](subject/philosophers.subject.pdf)
+Project in Ecole42. The purpose of this project is to learn how to work with `threads`, `mutex`, `semaphores`.
 
 ### Discription
 It is classic task about [dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem).
